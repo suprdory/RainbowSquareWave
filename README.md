@@ -5,7 +5,7 @@ Just three superposed monochromatic plane waves spinning around, scaling, propag
 
 See it in action <a href=https://youtu.be/Qv-7BX784L8>here</a> 
 
-<img src="https://user-images.githubusercontent.com/25584653/111889980-249d5300-89dd-11eb-9b7b-79e100cd1d43.jpg" width=50% height=50%>
-<img src="https://user-images.githubusercontent.com/25584653/111889981-28c97080-89dd-11eb-91cc-52d93ee11b1c.jpg" width=50% height=50%>
-<img src="https://user-images.githubusercontent.com/25584653/111889982-2a933400-89dd-11eb-8ffc-7df3332a1b54.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/25584653/111889980-249d5300-89dd-11eb-9b7b-79e100cd1d43.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/25584653/111889981-28c97080-89dd-11eb-91cc-52d93ee11b1c.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/25584653/111889982-2a933400-89dd-11eb-8ffc-7df3332a1b54.jpg" width=30% height=30%>
 
